@@ -9,7 +9,8 @@ data = JSON.parse raw_file
 g = Gruff::Bar.new('800x600')
 g.theme = {
   :colors => %w[orange purple green white red #cccccc],
-  :marker_color => 'white',
+  :marker_color => '#8d8d8d',
+  :font_color => 'white',
   :background_colors => %w[#1d1d1d #4a4a4a]
 }
 g.show_labels_for_bar_values = true
