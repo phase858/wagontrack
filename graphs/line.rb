@@ -18,7 +18,7 @@ g.minimum_value = 0
 g.y_axis_increment = 15
 g.sort = false
 g.title = "Run ##{ARGV[0]}"
-# g.x_axis_label = 'Wagon'
+g.x_axis_label = 'Wagon Number'
 g.y_axis_label = 'Seconds'
 g.data('time', data)
 g.write(ARGV[2])
