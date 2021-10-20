@@ -1,6 +1,7 @@
 {
 	"total": 22,
+	"accepted": 16,
 	"rejects": 6,
 	"reworks": 2,
-	"out_of_time": 2 
+	"late": 2 
 }
