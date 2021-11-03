@@ -13,7 +13,7 @@ g.theme = {
   :font_color => 'white',
   :background_colors => %w[#1d1d1d #4a4a4a]
 }
-g.maximum_value = 120
+g.maximum_value = 300
 g.minimum_value = 0
 g.y_axis_increment = 15
 g.sort = false
